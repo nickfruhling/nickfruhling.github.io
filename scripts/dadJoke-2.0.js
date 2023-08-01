@@ -40,15 +40,20 @@ var jokes = [
 ]
 
 function newJoke() {
-	$('#jokeContainer').removeClass('jokeHidden');
-	var randomNumber = Math.floor(Math.random() * (jokes.length));
-	document.getElementById('jokeDisplay').innerHTML = jokes[randomNumber];
-	var x = document.getElementById("jokeDisplay");
-	if (x.style.display === "none") {
-	    x.style.display = "block";
-	
+	$("#super-navbar__logo-image").css("display", "none");
 	}
 }
+
+// function newJoke() {
+// 	$('#jokeContainer').removeClass('jokeHidden');
+// 	var randomNumber = Math.floor(Math.random() * (jokes.length));
+// 	document.getElementById('jokeDisplay').innerHTML = jokes[randomNumber];
+// 	var x = document.getElementById("jokeDisplay");
+// 	if (x.style.display === "none") {
+// 	    x.style.display = "block";
+	
+// 	}
+// }
 
 function goAway() {
     var x = document.getElementById("jokeDisplay");
