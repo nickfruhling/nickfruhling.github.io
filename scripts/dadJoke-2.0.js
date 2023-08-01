@@ -40,7 +40,7 @@ var jokes = [
 ]
 
 function newJoke() {
-	$("#super-navbar__logo-image").css("display", "none");
+	$("#super-navbar__logo-image").css('color', 'red');
 	}
 
 // function newJoke() {
