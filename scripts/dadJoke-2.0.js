@@ -42,7 +42,6 @@ var jokes = [
 function newJoke() {
 	$("#super-navbar__logo-image").css("display", "none");
 	}
-}
 
 // function newJoke() {
 // 	$('#jokeContainer').removeClass('jokeHidden');
