@@ -27,16 +27,25 @@ var jokes = [
 	"Why did the scarecrow get promoted? He was outstanding in his field.",
 	"Yesterday I bought the world's worst thesaurus. Not only was it terrible, but it was terrible.",
 	"Why can't you hear a pterodactyl in the bathroom? Because the P is silent.",
-    "Can I perform under pressure? I'm not sure, but I do an amazing Bohemian Rhapsody.",
-    "What's the best thing about living in Switzerland? No idea but the flag is a big plus.",
-    "Why do bees stay in the hive during winter? Swarm.",
+	"Can I perform under pressure? I'm not sure, but I do an amazing Bohemian Rhapsody.",
+	"What's the best thing about living in Switzerland? No idea but the flag is a big plus.",
+	"Why do bees stay in the hive during winter? Swarm.",
 	"People are usually shocked when they find out I’m not a very good electrician.",
-    "How do you find Will Smith in the snow? Look for the fresh prints.",
-    "Why did the golfer wear two pairs of pants? In case they got a hole in one.",
-    "How do you know when a joke becomes a dad joke? When it's full groan.",
-    "I stayed up all night to see where the sun went. Then it dawned on me.",
-    "I'm reading a book about anti-gravity. I can't put it down.",
-    "I didn't like my beard at first, but then it grew on me."
+	"How do you find Will Smith in the snow? Look for the fresh prints.",
+	"Why did the golfer wear two pairs of pants? In case they got a hole in one.",
+	"How do you know when a joke becomes a dad joke? When it's full groan.",
+	"I stayed up all night to see where the sun went. Then it dawned on me.",
+	"I'm reading a book about anti-gravity. I can't put it down.",
+	"I didn't like my beard at first, but then it grew on me.",
+	"Do I know any jokes about sodium? Na.",
+	"Want to hear a time travel joke? Nevermind you didn't like it.",
+	"What do you call an alligator in a vest? An Investigator.",
+	"What did Yoda say when he saw himself in 1080p? HDMI!",
+	"What do you call a fish with no eyes? A fsh.",
+	"What does a clock do when it's hungry? It goes back four seconds.",
+	"I wondered why the baseball was getting bigger. Then it hit me!",
+	"Broken pencils are pointless."
+	
 ]
 
 function newJoke() {
