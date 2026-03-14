@@ -53,6 +53,7 @@ var jokes = [
 	"If you tell a joke during a Zoom call and no one laughs, you’re not even remotely funny.",
 	"I bought my friend and elephant for her room.  She said, ‘Thank you.’ I said, ‘Don’t mention it.’",
 	"Why are plain pizzas the best types of pizzas? Because nothing tops them."
+	
 ]
 
 function newJoke() {
