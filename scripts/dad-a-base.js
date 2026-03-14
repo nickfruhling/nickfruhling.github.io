@@ -16,7 +16,6 @@ var jokes = [
 	"What’s brown and sticky? A stick.",
 	"I used to be addicted to the hokey pokey, but then I turned myself around.",
 	"What time did I go to the dentist? Tooth hurty.",
-	"What's the difference between Dubai and Abu Dhabi? People in Dubai don't watch The Flintstones, but people in Abu Dhabi do.",
 	"What do you do when you see a spaceman? You park your car, man.",
 	"Why did the hipster burn his tongue? Because he drank his coffee before it was cool.",
 	"The butcher accidentally backed into the meat grinder and got a little behind in his work.",
@@ -44,7 +43,16 @@ var jokes = [
 	"What do you call a fish with no eyes? A fsh.",
 	"What does a clock do when it's hungry? It goes back four seconds.",
 	"I wondered why the baseball was getting bigger. Then it hit me!",
-	"Broken pencils are pointless."
+	"Broken pencils are pointless.",
+	"Did you hear about the guy who was afraid of hurdles? He got over it.",
+	"What did the sushi say to the bee? Wasabi.",
+	"To be Frank, I have to change my name.",
+	"Why is the ocean salty? Because the land never waves back.",
+	"Time flies like an arrow. Fruit flies like a banana.",
+	"Why did the cowboy get a dachshund? Because he wanted to get a long little doggy.",
+	"If you tell a joke during a Zoom call and no one laughs, you’re not even remotely funny.",
+	"I bought my friend and elephant for her room.  She said, ‘Thank you.’ I said, ‘Don’t mention it.’",
+	"Why are plain pizzas the best types of pizzas? Because nothing tops them."
 	
 ]
 
